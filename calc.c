@@ -1,7 +1,7 @@
 // Orman Gurbanli 251ADB255
 // https://github.com/orman-qunrbbll672783/calc-lab-home
 // Compile with: gcc -O2 -Wall -Wextra -std=c17 -o calc calc.c -lm
-// Resources used: Claude (Anthropic, claude.ai) AI assistant wrote this program; conversation: https://claude.ai/chat/4adfdbf2-2298-4e63-a6f8-1f4908528462
+// Resources used: Claude (Anthropic, claude.ai) AI assistant wrote this program; conversation: https://claude.ai/share/b18d3391-0051-4910-b987-109f25da1e47
 
 /*
  * AI (Claude, Anthropic): prompt "can you please tell me how to complete this
